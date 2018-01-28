@@ -1,0 +1,3 @@
+Orc, Big, mean and ugly. Usually not too bright, orcs make the bulk of the ground troops., 5
+Goblins, Small, disgusting creatures. Smarter than Orcs, but also less powerful physically., 3
+Kobold, Small scaly creatures. The smartest of the bunch, said to be descended from dragons., 4

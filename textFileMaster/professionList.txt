@@ -1,0 +1,3 @@
+None, Melee Figher using sticks and stones, 1
+Soldier, Melee Fighter using sword and shield, 3
+Mage, Ranged Magic User, 7

@@ -1,0 +1,3 @@
+None, Low Rank Fighter using sticks and stones, 1
+Soldier, Specialized Melee Fighter with a BroadSword, 3
+Mage, Mana User casting spells from afar, 7

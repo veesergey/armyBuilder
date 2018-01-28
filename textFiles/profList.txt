@@ -1,0 +1,3 @@
+Knight,Melee Unit,5
+Monk,Barehanded Fighter,5
+Archer,Bow,5

@@ -1,0 +1,5 @@
+Goblin,Small scaly and mean,5
+Dragon,Big fire breathing monster. Can fly.,5
+Troll,Big and ugly. Also dumb. ,5
+Kobold,Descendant of dragons. Smarter and faster than goblins.,5
+Treant,Big tree that walks,5
